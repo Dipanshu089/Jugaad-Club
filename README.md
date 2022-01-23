@@ -1,5 +1,5 @@
 ___
-<h1 align="center"> <img height="40" width="40"/> TASKS </h1>
+<h1 align="center"> TASK FOR WEEK 1</h1>
 
 
 - Task 1 : Make Github account and send username in club-discussion. Watch tutorials complete git and github tutorial. 
